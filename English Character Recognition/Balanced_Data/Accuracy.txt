@@ -1,0 +1,16 @@
+2018-03-30 19:15:34.273388: Step 7999: Train accuracy = 100.0%
+2018-03-30 19:15:34.273388: Step 7999: Cross entropy = 0.036872
+2018-03-30 19:15:34.398188: Step 7999: Validation accuracy = 95.0% (N=100)
+Final test accuracy = 92.6% (N=4028)
+489.603345 seconds
+AdamOptimizer(0.001, 0.9, 0.999, 1e-8, False)
+Learning_rate = 0.001
+initial 1st moment vector = 0.9
+initial 1st moment vector = 0.999
+epsilon = 1e-08
+Training Step = 8000
+Training Percentage = 80%
+Validation Percentage = 10%
+Testing Perentage = 10%
+Batch Size = 25
+19,720 image in 29 class
